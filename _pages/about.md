@@ -8,18 +8,22 @@ redirect_from:
 ---
 KATHRYN M. SHARPETA	
   
-OBJECTIVES
-Looking to further my knowledge in programming and computers	
+OBJECTIVES - Looking to further my knowledge in programming and computers	
 
 CONTACT INFO
-410-627-(2812)
-Personal Email: kmsharpeta@icloud.com
-School email: kathrynsharpeta@student.hcps.org
+
+- 410-627-(2812)
+
+- Personal Email: kmsharpeta@icloud.com
+
+- School email: kathrynsharpeta@student.hcps.org
 	
 EXPERIENCE
 
 ROBOTICS 
+
 MINOR VOLENTERING
+
 CLASSES IN COMPUTERS
 -	JAVA FUNDAMENTASL/FOUNDATIONS
 -	DATABASE CLASSES
@@ -32,10 +36,12 @@ PROGRAMING LANGUAGES
 CIRTIFICATIONS
 -	CIRTIFIED IN SQL.		
 
- 	EDUCATION
+EDUCATION
 
 ITOA STUDENT
+
 Haver de Grace High
+
 Sep 2023 – Now
 
 SKILLS
