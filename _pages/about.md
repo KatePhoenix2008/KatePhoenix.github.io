@@ -6,10 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-	KATHRYN M. SHARPETA	
+KATHRYN M. SHARPETA	
   
-		OBJECTIVES
+OBJECTIVES
 Looking to further my knowledge in programming and computers	
 
 CONTACT INFO
@@ -17,7 +16,7 @@ CONTACT INFO
 Personal Email: kmsharpeta@icloud.com
 School email: kathrynsharpeta@student.hcps.org
 	
-		EXPERIENCE
+EXPERIENCE
 
 ROBOTICS 
 MINOR VOLENTERING
