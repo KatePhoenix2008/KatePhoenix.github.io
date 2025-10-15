@@ -1,12 +1,11 @@
 ---
 permalink: /
-title: "Academic Page"
+title: "KATHRYN M. SHARPETA"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-KATHRYN M. SHARPETA	
   
 OBJECTIVES - Looking to further my knowledge in programming and computers	
 
