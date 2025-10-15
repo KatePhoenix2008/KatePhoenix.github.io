@@ -39,6 +39,7 @@ Haver de Grace High
 Sep 2023 – Now
 
 SKILLS
-•	N/A		
+
+- N/A		
 
 
