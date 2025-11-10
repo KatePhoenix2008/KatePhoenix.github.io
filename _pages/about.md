@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
   
-OBJECTIVES - Looking to further my knowledge in programming and computers	
+OBJECTIVES - N/A	
 
 CONTACT INFO
 
@@ -16,35 +16,36 @@ CONTACT INFO
 - Personal Email: kmsharpeta@icloud.com
 
 - School email: kathrynsharpeta@student.hcps.org
-	
+
+  
 EXPERIENCE
 
-ROBOTICS 
+- ROBOTICS 
 
-MINOR VOLENTERING
+- CLASSES IN COMPUTERS
+	-	JAVA FUNDAMENTASL/FOUNDATIONS
+	-	DATABASE CLASSES
+	-	COMPUTER SCIENSCE PRINCEIPLES/A
 
-CLASSES IN COMPUTERS
--	JAVA FUNDAMENTASL/FOUNDATIONS
--	DATABASE CLASSES
--	COMPUTER SCIENSCE PRINCEIPLES/A
   
 PROGRAMING LANGUAGES
 -	JAVA (BEGINNER)
 -	SQL (BEGINER)
+
   
 CIRTIFICATIONS
 -	CIRTIFIED IN SQL.		
 
+
 EDUCATION
 
-ITOA STUDENT
-
-Haver de Grace High
-
-Sep 2023 – Now
+- ITOA STUDENT Haver de Grace High from Sep 2023 – Now
 
 SKILLS
 
 - N/A		
 
 
+Programs (not really)
+
+- https://github.com/KatePhoenix2008/ARGBreaker.gethub.io/tree/main
